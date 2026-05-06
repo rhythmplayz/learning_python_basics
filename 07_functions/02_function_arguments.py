@@ -32,14 +32,5 @@ def func4(*args,**kwargs):
     print(args)
     print(kwargs)
 
-
-
-
-
-
-
-
-
-
 func4(1,2,d=3,c=4,e=5)
 print()
