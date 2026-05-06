@@ -1,0 +1,93 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="altair" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="asttokens" />
+          <option value="attrs" />
+          <option value="black" />
+          <option value="blinker" />
+          <option value="cachetools" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="comm" />
+          <option value="debugpy" />
+          <option value="decorator" />
+          <option value="distro" />
+          <option value="djangorestframework" />
+          <option value="executing" />
+          <option value="Flask" />
+          <option value="gitdb" />
+          <option value="GitPython" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="ipykernel" />
+          <option value="ipython" />
+          <option value="ipython_pygments_lexers" />
+          <option value="itsdangerous" />
+          <option value="jedi" />
+          <option value="Jinja2" />
+          <option value="jiter" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="jupyter_client" />
+          <option value="jupyter_core" />
+          <option value="MarkupSafe" />
+          <option value="matplotlib-inline" />
+          <option value="mypy_extensions" />
+          <option value="narwhals" />
+          <option value="nest-asyncio" />
+          <option value="numpy" />
+          <option value="openai" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="parso" />
+          <option value="pathspec" />
+          <option value="platformdirs" />
+          <option value="prompt_toolkit" />
+          <option value="protobuf" />
+          <option value="psutil" />
+          <option value="pure_eval" />
+          <option value="pyarrow" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="pydeck" />
+          <option value="Pygments" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="python-telegram-bot" />
+          <option value="pytz" />
+          <option value="pywin32" />
+          <option value="pyzmq" />
+          <option value="referencing" />
+          <option value="requests" />
+          <option value="rpds-py" />
+          <option value="six" />
+          <option value="smmap" />
+          <option value="sniffio" />
+          <option value="stack-data" />
+          <option value="streamlit" />
+          <option value="tenacity" />
+          <option value="toml" />
+          <option value="tornado" />
+          <option value="tqdm" />
+          <option value="traitlets" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+          <option value="watchdog" />
+          <option value="wcwidth" />
+          <option value="Werkzeug" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
